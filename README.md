@@ -9,9 +9,9 @@
 ```
 ## ⚙️ Config
 
-Le service avahi-daemon dois etre demarrer pour que le script fonctionnne
+Le service avahi-daemon dois etre demarrer
 
-Automatiquement
+Soit automatiquement
 
 ```
 ┌─[m0rph3u5@parrot]─[~]
