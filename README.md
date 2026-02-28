@@ -7,7 +7,23 @@
 ┌─[m0rph3u5@parrot]─[~]
 └──╼ $sudo apt install avahi-daemon avahi-utils
 ```
+## ⚙️ Config
 
+Le service avahi-daemon dois etre demarrer pour que le script fonctionnne
+
+Automatiquement
+
+```
+┌─[m0rph3u5@parrot]─[~]
+└──╼ $sudo systemctl enable avahi-daemon
+```
+
+Ou a la main
+
+```
+┌─[m0rph3u5@parrot]─[~]
+└──╼ $sudo systemctl start avahi-daemon
+```
 ## 👁️ Demo
 
 ```
