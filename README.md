@@ -1,5 +1,6 @@
 # <img width="474" height="569" alt="Capture du 2026-02-28 12-10-05" src="https://github.com/user-attachments/assets/61d7d396-0db4-47ef-843f-e2eb1a1a3c34" />
 
+Protocole Bonjour/ZeroConf: https://fr.wikipedia.org/wiki/Apple_Bonjour
 
 ## 🛠️ Outils
 
