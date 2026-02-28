@@ -11,7 +11,7 @@
 
 Le service avahi-daemon dois etre demarrer
 
-Soit automatiquement
+Soit automatiquement a chaque demarrage de la machine
 
 ```
 ┌─[m0rph3u5@parrot]─[~]
