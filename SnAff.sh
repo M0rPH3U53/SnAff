@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Cherche les service du protocole Bonjour/ZeroCOnf & filtre le hostanme, les IP , ports & des info supplumentaire
+# Cherche & filtre les service Bonjour/ZeroCOnf
 sniff=$(avahi-browse -a -r -t | grep -E "(hostname|address|port|txt)" | awk '{print $3}' | paste - - - -)
 
-# Verifie si la variable est vide & affiche & enregsitre le resultat
+# Verifie si la variable est vide, affiche & enregistre les resultats
 if [[ -z ${sniff} ]]; then
    echo "❌ Aucun services trouvé"
    exit 1
