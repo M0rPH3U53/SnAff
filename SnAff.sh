@@ -8,6 +8,6 @@ if [[ -z ${sniff} ]]; then
    echo "❌ Aucun services trouvé"
    exit 1
 else
-   echo "${sniff}"
+   echo "👻 ${sniff}"
    echo "${sniff}" > SnAff.txt
 fi
