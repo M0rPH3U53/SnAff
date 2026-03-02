@@ -1,4 +1,5 @@
-# <img width="474" height="569" alt="Capture du 2026-02-28 12-10-05" src="https://github.com/user-attachments/assets/1587e0b8-1cdf-4126-84b8-f4e7d9cb3ef4" />
+# ![Duck-ai-image-2026-03-02-10-32](https://github.com/user-attachments/assets/d0ffed72-b206-49ed-b1a8-b09d520ff836)
+
 
 
 
