@@ -28,7 +28,7 @@ Ou a la main
 ## 👁️ Demo
 
 ```
-┌─[m0rph3u5@parrot]─[~/]
+┌─[m0rph3u5@parrot]─[~/Desktop]
 └──╼ $./SnAff.sh
 
 MP""""""`MM          MMP"""""""MM .8888b .8888b 
