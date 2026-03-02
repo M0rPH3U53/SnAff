@@ -25,7 +25,7 @@ BLANC='\033[1;37m'
 JAUNE='\033[0;33m'
 
 # Cherche & filtre les services
-echo -ne "👻 ${BLANC}Scan${RESET}..."
+echo -ne "🦈 ${BLANC}Scan${RESET}..."
 sniff=$(avahi-browse -a -r -t | grep -E "(hostname|address|port|txt)" | awk '{print $3}' | paste - - - -)
 echo -e "${JAUNE}100%${RESET}"
 
