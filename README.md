@@ -28,9 +28,26 @@ Ou a la main
 ## 👁️ Demo
 
 ```
-┌─[m0rph3u5@parrot]─[~]
+┌─[m0rph3u5@parrot]─[~/]
 └──╼ $./SnAff.sh
+
+MP""""""`MM          MMP"""""""MM .8888b .8888b 
+M  mmmmm..M          M' .mmmm  MM 88   " 88   " 
+M.      `YM 88d888b. M         `M 88aaa  88aaa  
+MMMMMMM.  M 88'  `88 M  MMMMM  MM 88     88     
+M. .MMM'  M 88    88 M  MMMMM  MM 88     88     
+Mb.     .dM dP    dP M  MMMMM  MM dP     dP     
+MMMMMMMMMMM          MMMMMMMMMMMM   
+
+by M0rPH3U53
+      
+👻 Scan...100%
+ 
+[+] Services
+ 
 [foo.local]	[192.168.56.253]	[8080]	["version=1.0"
-[foo.local]	[192.168.56.253]	[22]	["auth=publickey"]
 [foo.local]	[192.168.56.253]	[80]	["version=1.0"
+[foo.local]	[192.168.56.253]	[22]	["auth=publickey"]
+ 
+[+] Sauvegardé --> /home/m0rph3u5/Desktop/SnAff.txt
 ```
