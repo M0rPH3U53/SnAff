@@ -41,7 +41,7 @@ MMMMMMMMMMM          MMMMMMMMMMMM
 
 by M0rPH3U53
       
-👻 Scan...100%
+🦈 Scan...100%
  
 [+] Services
  
