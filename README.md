@@ -1,8 +1,4 @@
-# ![Duck-ai-image-2026-03-02-10-32](https://github.com/user-attachments/assets/d0ffed72-b206-49ed-b1a8-b09d520ff836)
-
-
-
-
+# <img width="576" height="792" alt="red" src="https://github.com/user-attachments/assets/500a3692-8880-45c5-90f5-fafdf09d94f2" />
 
 Protocole Bonjour/ZeroConf: https://fr.wikipedia.org/wiki/Apple_Bonjour
 
