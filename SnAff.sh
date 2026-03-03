@@ -34,7 +34,7 @@ dir=$(pwd)
 
 echo -e " " 
 
-# Verifie si la varibale est vide & affiche les services
+# Verifie si la varibale est vide sinon affiche les services
 if [[ -z ${sniff} ]]; then
    echo "❌ Aucun services trouvé"
    exit 1
