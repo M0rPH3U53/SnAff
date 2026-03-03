@@ -2,6 +2,11 @@
 
 Protocole Bonjour/ZeroConf: https://fr.wikipedia.org/wiki/Apple_Bonjour
 
+Outils utilisé
+
+- avahi-daemon
+- avahi-browser
+
 ## 🛠️ Outils
 
 ```
