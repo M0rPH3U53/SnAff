@@ -29,6 +29,9 @@ echo -ne "🦈 ${VERT}Scan${RESET}..."
 sniff=$(avahi-browse -a -r -t > /dev/null 2>&1 | grep -E "(hostname|address|port|txt)" | awk '{print $3}' | paste - - - -)
 echo -e "${JAUNE}100%${RESET}"
 
+# Chemin du fichier
+dir=$(pwd)
+
 echo -e " " 
 
 # Verifie si la varibale est vide sinon affiche les services
@@ -41,5 +44,5 @@ else
    echo "${sniff}"
    echo "${sniff}" > SnAff.txt
    echo " "
-   echo -e "${VERT}[+]${RESET} Sauvegardé --> "${PWD}"/SnAff.txt"
+   echo -e "${VERT}[+]${RESET} Sauvegardé --> "${dir}"/SnAff.txt"
 fi
