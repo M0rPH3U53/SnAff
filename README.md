@@ -1,6 +1,5 @@
 # <img width="576" height="792" alt="red" src="https://github.com/user-attachments/assets/500a3692-8880-45c5-90f5-fafdf09d94f2" />
 
-Protocole Bonjour/ZeroConf: https://fr.wikipedia.org/wiki/Apple_Bonjour
 
 Automatisation de la decouverte des services Bonjour/ZeroConf/mDNS
 
