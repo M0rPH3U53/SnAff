@@ -26,7 +26,7 @@ JAUNE='\033[0;33m'
 
 # Cherche & filtre les services
 echo -ne "🦈 ${VERT}Scan${RESET}..."
-sniff=$(avahi-browse -a -r -t > /dev/null 2>&1 | grep -E "(hostname|address|port|txt)" | awk '{print $3}' | paste - - - -)
+sniff=$(avahi-browse -a -r -t 2>/dev/null | grep -E "(hostname|address|port|txt)" | awk '{print $3}' | paste - - - -)
 echo -e "${JAUNE}100%${RESET}"
 
 # Chemin du fichier
