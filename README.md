@@ -2,7 +2,7 @@
 
 Protocole Bonjour/ZeroConf: https://fr.wikipedia.org/wiki/Apple_Bonjour
 
-Outils utilisé
+Automatisation de la decouverte des services Bonjour/ZeroConf/mDNS
 
 🧭 avahi-daemon --> https://wiki.debian.org/Avahi
 
