@@ -4,9 +4,8 @@ Protocole Bonjour/ZeroConf: https://fr.wikipedia.org/wiki/Apple_Bonjour
 
 Outils utilisé
 
-🧭 avahi-daemon
-
-🔍 avahi-browser
+🧭 avahi-daemon --> https://wiki.debian.org/Avahi
+🔍 avahi-browser --> https://wiki.debian.org/Avahi
 
 ## 🛠️ Installation d'outils & emoji
 
