@@ -7,11 +7,11 @@ Outils utilisé
 - avahi-daemon
 - avahi-browser
 
-## 🛠️ Outils
+## 🛠️ Installation d'outils & emoji
 
 ```
 ┌─[m0rph3u5@parrot]─[~]
-└──╼ $sudo apt install avahi-daemon avahi-utils
+└──╼ $sudo apt install avahi-daemon avahi-utils fonts-noto-color-emoji
 ```
 ## ⚙️ Config
 
