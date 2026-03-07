@@ -33,8 +33,8 @@ Ou a la main
 ## 👁️ Demo
 
 ```
-┌─[m0rph3u5@parrot]─[~/Desktop]
-└──╼ $./SnAff.sh
+┌─[m0rph3u5@parrot]─[~/Desktop/SnAff]
+└──╼ $./snaff_tab.sh
 
 MP""""""`MM          MMP"""""""MM .8888b .8888b 
 M  mmmmm..M          M' .mmmm  MM 88   " 88   " 
@@ -50,9 +50,9 @@ by M0rPH3U53
  
 [+] Services
  
-[foo.local]	[192.168.56.253]	[8080]	["version=1.0"
-[foo.local]	[192.168.56.253]	[80]	["version=1.0"
-[foo.local]	[192.168.56.253]	[22]	["auth=publickey"]
- 
+[debian.local]	[192.168.56.253]	[22]	["auth=publickey"]
+[debian.local]	[192.168.56.253]	[8080]	["version=1.0" "purpose=pentest"]
+[debian.local]	[192.168.56.253]	[80]	["version=1.0" "path=/"]
+
 [+] Sauvegardé --> /home/m0rph3u5/Desktop/SnAff.txt
 ```
