@@ -33,8 +33,8 @@ Ou a la main
 ## 👁️ Demo
 
 ```
-┌─[m0rph3u5@parrot]─[~/Desktop/SnAff]
-└──╼ $./snaff_tab.sh
+┌─[m0rph3u5@parrot]─[~/Desktop]
+└──╼ $./SnAff.sh
 
 MP""""""`MM          MMP"""""""MM .8888b .8888b 
 M  mmmmm..M          M' .mmmm  MM 88   " 88   " 
