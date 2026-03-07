@@ -26,23 +26,23 @@ JAUNE='\033[0;33m'
 
 # Cherche & filtre les services
 echo -ne "🦈 ${VERT}Scan${RESET}..."
-sniff=$(avahi-browse -a -r -t 2>/dev/null | grep -E "(hostname|address|port|txt)" | awk '{print $3}' | paste - - - -)
+sniff=$(avahi-browse -a -r -t 2>/dev/null | grep -o '\[[^]]*\]' | paste - - - -)
 echo -e "${JAUNE}100%${RESET}"
 
 # Chemin du fichier
 dir=$(pwd)
 
-echo -e " " 
 
 # Verifie si la varibale est vide sinon affiche les services
 if [[ -z ${sniff} ]]; then
+   echo " "
    echo "❌ Aucun services trouvé"
    exit 1
 else
+   echo " "
    echo -e "${VERT}[+]${RESET} ${BLANC}Services${RESET}"
    echo " "
-   echo "${sniff}"
-   echo "${sniff}" > SnAff.txt
+   echo "${sniff}" > SnAff.txt | echo "${sniff}"
    echo " "
    echo -e "${VERT}[+]${RESET} Sauvegardé --> "${dir}"/SnAff.txt"
 fi
