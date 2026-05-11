@@ -36,7 +36,7 @@ Ou a la main
 ┌─[m0rph3u5@parrot]─[~/Desktop]
 └──╼ $./SnAff.sh
 
-MP""""""`MM          MMP"""""""MM .8888b .8888b 
+MP""""""`MM          MMP"""""""MmDNSM .8888b .8888b 
 M  mmmmm..M          M' .mmmm  MM 88   " 88   " 
 M.      `YM 88d888b. M         `M 88aaa  88aaa  
 MMMMMMM.  M 88'  `88 M  MMMMM  MM 88     88     
@@ -46,7 +46,7 @@ MMMMMMMMMMM          MMMMMMMMMMMM
 
 by M0rPH3U53
       
-🦈 Scan...100%
+🦈 Scan mDNS...100%
  
 [+] Services
  
