@@ -3,9 +3,10 @@
 
 Automatisation de la decouverte des services Bonjour/ZeroConf/mDNS
 
-🧭 avahi-daemon --> https://wiki.debian.org/Avahi
-
-🔍 avahi-browser --> https://wiki.debian.org/Avahi
+| Outils | URLs |
+| --- | --- |
+| 🧭 avahi-daemon | https://wiki.debian.org/Avahi |
+| 🔍 avahi-browser | https://wiki.debian.org/Avahi |
 
 ## 🛠️ Installation d'outils & emoji
 
