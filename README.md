@@ -8,7 +8,7 @@ Automatisation de la decouverte des services mDNS
 | 🧭 avahi-daemon | https://wiki.debian.org/Avahi |
 | 🔍 avahi-browser | https://wiki.debian.org/Avahi |
 
-## 🛠️ Installation d'outils & emoji
+## 🛠️ Outils
 
 ```
 ┌─[m0rph3u5@parrot]─[~]
