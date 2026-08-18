@@ -25,7 +25,7 @@ Automatisation de la decouverte des services mDNS
 └──╼ $sudo systemctl enable avahi-daemon
 ```
 
-Ou a la main
+> Ou a la main
 
 ```
 ┌─[m0rph3u5@parrot]─[~]
