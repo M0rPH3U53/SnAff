@@ -16,9 +16,9 @@ Automatisation de la decouverte des services mDNS
 ```
 ## ⚙️ Config
 
-Le service avahi-daemon dois etre demarrer
-
-Soit automatiquement a chaque demarrage de la machine
+> Le service avahi-daemon dois etre demarrer
+> 
+> Soit automatiquement a chaque demarrage de la machine
 
 ```
 ┌─[m0rph3u5@parrot]─[~]
